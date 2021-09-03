@@ -1,2 +1,2 @@
 # Emoji-Pedia
-Created with CodeSandbox
+a fun app to know the meaning of the emoji which you use daily in chats.
